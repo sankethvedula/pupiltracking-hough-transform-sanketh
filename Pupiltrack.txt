@@ -1,0 +1,4 @@
+After Extracting this and put that video also in the same folder and run! 
+the process is a bit slow but it is managing to draw a perfect circle around the pupil in these cases..
+Run the pupiltracker_1.m file..
+
