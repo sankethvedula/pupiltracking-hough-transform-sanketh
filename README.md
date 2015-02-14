@@ -1,5 +1,5 @@
-pupiltracking-hough-transform-sanketh
-=====================================
+PupilTracker
+============
 
-Pupil Tracker which is done using just hough transform which is pretty slow and also not that accurate.
-Run pupiltracking1.m
+BasciPupilTracker_01.10
+*Work Under Progress*
