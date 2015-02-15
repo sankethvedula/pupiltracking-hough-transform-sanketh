@@ -1,9 +1,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % 																 
 %    Aim : Pupil detection and diameter plot							 
-%    Authors : Dhruv Joshi											 
+%    Authors : Dhruv Joshi, Sanketh Vedula											 
 %    Acknowledgements : Sujeath Pareddy, Sandeep Konam
-%    Organization : Srujana - Center for Innovation, LVEPI						 	 
+%    Organization : Srujana - Center for Innovation, LVPEI						 	 
 %																 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
